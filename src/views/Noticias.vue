@@ -3,8 +3,6 @@ import { ref } from 'vue'
 import axios from 'axios';
 
 
-import Noticia from '../components/noticia.vue'
-
 const noticias = ref([]);
 
 
